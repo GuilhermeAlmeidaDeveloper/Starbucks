@@ -19,7 +19,6 @@ header .line {
 .header--area {
     display: flex;
     justify-content: space-between;
-    background-color: red;
     height: 100px;
     align-items: center;
 }
